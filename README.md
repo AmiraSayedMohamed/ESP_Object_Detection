@@ -44,7 +44,11 @@ https://github.com/yoursunny/esp32cam
 and then go to arduino IDE << sketch << Include library < Add zip library
 - then  go to file in in this repo and copy this code and put it into your arduino ide
 
+- Then take the ip address and also the cam-hi or a cam-lo or cam-median , copy this two paths
+we will need them to connect the esp to out python code 
 
+- Open the file in this repo called Test_Camera_With_pthon.py:
+and paste the code in this file at your pycharm ide
 
 
 
