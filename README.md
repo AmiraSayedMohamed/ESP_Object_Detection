@@ -52,6 +52,8 @@ and paste the code in this file at your pycharm ide
 
 - if your camera is opened and everything is well now open the file in this rebo called Object detection_Code.py
 and copy this code and paste it on pycharm << this  is the code for detecting objects 
+All the edits you need to made on this code only the ip address of the camera and type of you img format ,
+the second edit is you model path
 
 
 
