@@ -50,6 +50,9 @@ we will need them to connect the esp to out python code
 - Open the file in this repo called Test_Camera_With_pthon.py:
 and paste the code in this file at your pycharm ide
 
+- if your camera is opened and everything is well now open the file in this rebo called Object detection_Code.py
+and copy this code and paste it on pycharm << this  is the code for detecting objects 
+
 
 
 
