@@ -57,4 +57,10 @@ the second edit is you model path
 
 
 
+## Connect your python code to the telegram bot ,  and send pictures from your esp camera to the telegram bot :
 
+first you need to make a telegram bot and get the id this video will help you :
+https://youtu.be/ozQfKhdNjJU?si=GVhJFD6Lq7s8bDvv
+
+next after getting your id address , if you want to cound the detected object through you esp camera , and send 
+the number of detected to a telegram bot , check the file in this repositery named >> 
