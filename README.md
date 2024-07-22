@@ -63,4 +63,5 @@ first you need to make a telegram bot and get the id this video will help you :
 https://youtu.be/ozQfKhdNjJU?si=GVhJFD6Lq7s8bDvv
 
 next after getting your id address , if you want to cound the detected object through you esp camera , and send 
-the number of detected to a telegram bot , check the file in this repositery named >> 
+the number of detected to a telegram bot , check the file in this repositery named >>  Detect-And-send-The-Number-Of-Detected-ToTelegramBot
+
