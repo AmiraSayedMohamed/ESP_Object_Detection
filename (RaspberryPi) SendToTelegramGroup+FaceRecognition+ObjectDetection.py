@@ -7,7 +7,7 @@ import requests
 import time  # Added for small delays
 
 # Telegram bot parameters
-TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token
+TOKEN = "7290187905:AAHp7vnjffhKLlAW23e0Z7IoEQ37tEPf_SE"  # Replace with your bot token
 CHAT_ID = 'YOUR_CHAT_ID'  # Replace with your chat ID
 message_count = 0  # Counter for the number of detections
 
